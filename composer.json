@@ -9,7 +9,6 @@
             "email": "zhangxingz@servyou.com.cn"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "symfony/symfony": "3.1.*"
     },
