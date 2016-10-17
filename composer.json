@@ -13,6 +13,7 @@
         "symfony/symfony": "3.1.*"
     },
     "minimum-stability": "dev",
+    "version" : '1.0.0',
     "autoload": {
         "psr-4": {
             "head\\render\\": "src/head"
