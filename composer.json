@@ -1,7 +1,7 @@
 {
     "name": "zhangxingz/public",
     "description": "this is zhangxz first package",
-    "type": "composer-plugin",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
