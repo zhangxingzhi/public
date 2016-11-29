@@ -8,10 +8,11 @@
 
 namespace head\render;
 
+use Symfony\Bundle\FrameworkBundle\Controller;
+
 class Index
 {
     public function index() {
         echo 1;
     }
-
 }
